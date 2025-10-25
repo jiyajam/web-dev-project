@@ -33,7 +33,7 @@ Manage the product backlog: Create, prioritize, and refine the product backlog, 
 
 4. Sprint Backlog: Develop a sprint backlog by breaking user stories into tasks required for the prototype development.
 
-![Sprint backlogn](images/Task2.png)
+![Sprint backlog](https://github.com/jiyajam/web-dev-project/blob/main/images/Task2.png?raw=true)
 
 5. Understanding Burndown Chart: Discuss the meaning and significance of a burndown chart in the context of Scrum.
 
